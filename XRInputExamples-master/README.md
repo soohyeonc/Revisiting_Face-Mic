@@ -16,3 +16,4 @@ https://docs.unity3d.com/Manual/xr_input.html
 ===============================================================================================================================================================================
 
 I adopted thier works to develop my Oculus Quest 2 application to collect accelerometer/gyroscrope data.
+You can check my work in script/InputManager.cs
