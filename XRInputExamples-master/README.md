@@ -12,3 +12,7 @@ Twitter thread with videos here: https://twitter.com/iBrews/status/1245549646702
 
 Remember this handy guide if you're trying to remember what the mapping is for a button or axis:
 https://docs.unity3d.com/Manual/xr_input.html
+
+===============================================================================================================================================================================
+
+I adopted thier works to develop my Oculus Quest 2 application to collect accelerometer/gyroscrope data.
