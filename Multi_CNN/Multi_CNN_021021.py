@@ -263,9 +263,9 @@ def Multi_CNN(image_path, ran_state):
 
       # channel 1
       inputs1 = Input(shape=(270, 120, 3))
-      data_augmentation = keras.Sequential([layers.RandomFlip("horizontal",input_shape=(270, 120, 3)), layers.RandomRotation(0.1), layers.RandomZoom(0.1),])(inputs1)
-      #first_batch = BatchNormalization()(inputs1)
-      first_batch = BatchNormalization()(data_augmentation)
+      #data_augmentation = keras.Sequential([layers.RandomFlip("horizontal",input_shape=(270, 120, 3)), layers.RandomRotation(0.1), layers.RandomZoom(0.1),])(inputs1)
+      first_batch = BatchNormalization()(inputs1)
+      #first_batch = BatchNormalization()(data_augmentation)
       first_conv2 = Conv2D(32, 2, padding='same', activation='relu')(first_batch)
       first_pool2 = MaxPooling2D()(first_conv2)
       first_conv2_2 = Conv2D(64, 2, padding='same', activation='relu')(first_pool2)
