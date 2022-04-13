@@ -366,7 +366,7 @@ def Multi_CNN(image_path, csv_path):
         flat1 = Flatten()(merged)
         dense1 = Dense(512, activation='relu')(flat1)
         dense2 = Dense(128, activation='relu')(dense1)
-        outputs = Dense(14, activation='softmax')(dense2)
+        outputs = Dense(6, activation='softmax')(dense2)
 
         model = Model(inputs=[inputs1, inputs2, inputs3, inputs4, inputs5, inputs6, inputs7, inputs8, inputs9, inputs10], outputs=outputs)
         # compile
