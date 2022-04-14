@@ -23,8 +23,8 @@ Test	Loss:	73.0800092220306
 Evaluation
 ====== Forth	data	set
 Train	Accuracy:	100
-Train	Loss:	0.001803651502996
-Test	Accuracy:	85.7142865657806
-Test	Loss:	69.876492023468
+Train	Loss:	2.83E-05
+Test	Accuracy:	80.9523820877075
+Test	Loss:	62.4868810176849
 
 ==================================================
