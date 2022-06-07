@@ -1,0 +1,30 @@
+
+Evaluation
+====== First data set
+Train Accuracy: 100.0
+Train Loss: 1.2667238991070917e-05
+Test Accuracy: 81.21693134307861
+Test Loss: 104.90236282348633
+
+Evaluation
+====== Second data set
+Train Accuracy: 100.0
+Train Loss: 0.000939696383284172
+Test Accuracy: 82.53968358039856
+Test Loss: 94.502854347229
+
+Evaluation
+====== Third data set
+Train Accuracy: 100.0
+Train Loss: 0.0004934434400638565
+Test Accuracy: 87.83068656921387
+Test Loss: 55.71049451828003
+
+Evaluation
+====== Forth data set
+Train Accuracy: 100.0
+Train Loss: 0.019457752932794392
+Test Accuracy: 83.33333134651184
+Test Loss: 79.43136096000671
+
+==================================================

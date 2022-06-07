@@ -1,0 +1,280 @@
+
+Evaluation 
+====== First data set 
+Train Accuracy: 100.0
+Train Loss: 0.6476149428635836
+Test Accuracy: 69.04761791229248
+Test Loss: 153.88425588607788
+
+Evaluation 
+====== Second data set 
+Train Accuracy: 100.0
+Train Loss: 0.04461202188394964
+Test Accuracy: 69.04761791229248
+Test Loss: 111.72212362289429
+
+Evaluation 
+====== Third data set 
+Train Accuracy: 100.0
+Train Loss: 1.0700070299208164
+Test Accuracy: 69.84127163887024
+Test Loss: 124.43897724151611
+
+Evaluation 
+====== Forth data set 
+Train Accuracy: 100.0
+Train Loss: 0.1996233593672514
+Test Accuracy: 58.73016119003296
+Test Loss: 160.25470495224
+
+==================================================
+Evaluation 
+====== First data set 
+Train Accuracy: 100.0
+Train Loss: 0.26232253294438124
+Test Accuracy: 69.04761791229248
+Test Loss: 129.16406393051147
+
+Evaluation 
+====== Second data set 
+Train Accuracy: 100.0
+Train Loss: 0.28685545548796654
+Test Accuracy: 72.22222089767456
+Test Loss: 108.1547498703003
+
+Evaluation 
+====== Third data set 
+Train Accuracy: 100.0
+Train Loss: 0.43012923561036587
+Test Accuracy: 65.07936716079712
+Test Loss: 114.64991569519043
+
+Evaluation 
+====== Forth data set 
+Train Accuracy: 100.0
+Train Loss: 0.18035080283880234
+Test Accuracy: 62.69841194152832
+Test Loss: 114.29531574249268
+
+==================================================
+Evaluation 
+====== First data set 
+Train Accuracy: 100.0
+Train Loss: 0.09548713569529355
+Test Accuracy: 69.04761791229248
+Test Loss: 169.97251510620117
+
+Evaluation 
+====== Second data set 
+Train Accuracy: 100.0
+Train Loss: 1.2272468768060207
+Test Accuracy: 69.04761791229248
+Test Loss: 100.7595419883728
+
+Evaluation 
+====== Third data set 
+Train Accuracy: 100.0
+Train Loss: 0.21358192898333073
+Test Accuracy: 67.46031641960144
+Test Loss: 111.75252199172974
+
+Evaluation 
+====== Forth data set 
+Train Accuracy: 100.0
+Train Loss: 0.1352192834019661
+Test Accuracy: 60.317462682724
+Test Loss: 132.75717496871948
+
+==================================================
+Evaluation 
+====== First data set 
+Train Accuracy: 100.0
+Train Loss: 0.1077105407603085
+Test Accuracy: 72.22222089767456
+Test Loss: 107.98931121826172
+
+Evaluation 
+====== Second data set 
+Train Accuracy: 100.0
+Train Loss: 0.06960268365219235
+Test Accuracy: 72.22222089767456
+Test Loss: 111.84316873550415
+
+Evaluation 
+====== Third data set 
+Train Accuracy: 100.0
+Train Loss: 0.09836527751758695
+Test Accuracy: 71.42857313156128
+Test Loss: 107.3837161064148
+
+Evaluation 
+====== Forth data set 
+Train Accuracy: 100.0
+Train Loss: 1.027577742934227
+Test Accuracy: 60.317462682724
+Test Loss: 121.27573490142822
+
+==================================================
+Evaluation 
+====== First data set 
+Train Accuracy: 100.0
+Train Loss: 0.24378264788538218
+Test Accuracy: 68.2539701461792
+Test Loss: 154.63958978652954
+
+Evaluation 
+====== Second data set 
+Train Accuracy: 100.0
+Train Loss: 0.24331067688763142
+Test Accuracy: 82.53968358039856
+Test Loss: 79.10652756690979
+
+Evaluation 
+====== Third data set 
+Train Accuracy: 100.0
+Train Loss: 0.15889668138697743
+Test Accuracy: 68.2539701461792
+Test Loss: 122.82758951187134
+
+Evaluation 
+====== Forth data set 
+Train Accuracy: 100.0
+Train Loss: 0.29159600380808115
+Test Accuracy: 61.11111044883728
+Test Loss: 141.7807936668396
+
+==================================================
+Evaluation 
+====== First data set 
+Train Accuracy: 100.0
+Train Loss: 1.0439625941216946
+Test Accuracy: 65.8730149269104
+Test Loss: 117.02587604522705
+
+Evaluation 
+====== Second data set 
+Train Accuracy: 100.0
+Train Loss: 0.14345633098855615
+Test Accuracy: 73.8095223903656
+Test Loss: 108.57471227645874
+
+Evaluation 
+====== Third data set 
+Train Accuracy: 100.0
+Train Loss: 0.2061423845589161
+Test Accuracy: 71.42857313156128
+Test Loss: 104.15887832641602
+
+Evaluation 
+====== Forth data set 
+Train Accuracy: 100.0
+Train Loss: 0.14367362018674612
+Test Accuracy: 57.9365074634552
+Test Loss: 158.60787630081177
+
+==================================================
+Evaluation 
+====== First attack data set 
+Test Accuracy: 74.60317611694336
+Test Loss: 134.59144830703735
+
+Evaluation 
+====== Second attack data set 
+Test Accuracy: 68.2539701461792
+Test Loss: 182.99546241760254
+
+Evaluation 
+====== Third attack data set 
+Test Accuracy: 76.1904776096344
+Test Loss: 76.4377772808075
+
+Evaluation 
+====== Forth attack data set 
+Test Accuracy: 76.1904776096344
+Test Loss: 115.35278558731079
+
+==================================================
+Evaluation 
+====== First attack data set 
+Test Accuracy: 84.1269850730896
+Test Loss: 46.934324502944946
+
+Evaluation 
+====== Second attack data set 
+Test Accuracy: 68.2539701461792
+Test Loss: 184.70888137817383
+
+Evaluation 
+====== Third attack data set 
+Test Accuracy: 88.88888955116272
+Test Loss: 42.33706593513489
+
+Evaluation 
+====== Forth attack data set 
+Test Accuracy: 92.0634925365448
+Test Loss: 38.457655906677246
+
+==================================================
+Evaluation 
+====== First attack data set 
+Test Accuracy: 82.53968358039856
+Test Loss: 85.24248600006104
+
+Evaluation 
+====== Second attack data set 
+Test Accuracy: 74.60317611694336
+Test Loss: 88.99545669555664
+
+Evaluation 
+====== Third attack data set 
+Test Accuracy: 79.36508059501648
+Test Loss: 107.95068740844727
+
+Evaluation 
+====== Forth attack data set 
+Test Accuracy: 74.60317611694336
+Test Loss: 96.9518780708313
+
+==================================================
+Evaluation 
+====== First attack data set 
+Test Accuracy: 73.01587462425232
+Test Loss: 101.65483951568604
+
+Evaluation 
+====== Second attack data set 
+Test Accuracy: 65.07936716079712
+Test Loss: 174.91474151611328
+
+Evaluation 
+====== Third attack data set 
+Test Accuracy: 84.1269850730896
+Test Loss: 48.4779417514801
+
+Evaluation 
+====== Forth attack data set 
+Test Accuracy: 77.77777910232544
+Test Loss: 118.60305070877075
+
+==================================================
+Evaluation 
+====== First attack data set 
+Test Accuracy: 77.77777910232544
+Test Loss: 69.06901597976685
+
+Evaluation 
+====== Second attack data set 
+Test Accuracy: 80.95238208770752
+Test Loss: 74.43963885307312
+
+Evaluation 
+====== Third attack data set 
+Test Accuracy: 77.77777910232544
+Test Loss: 101.6566276550293
+
+Evaluation 
+====== Forth attack data set 
+Test Accuracy: 79.36508059501648
+Test Loss: 67.36254096031189
+
+==================================================

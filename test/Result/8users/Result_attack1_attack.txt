@@ -1,0 +1,22 @@
+
+Evaluation
+====== First attack data set
+Test Accuracy: 82.0105791091919
+Test Loss: 245.47135829925537
+
+Evaluation
+====== Second attack data set
+Test Accuracy: 82.53968358039856
+Test Loss: 99.67188239097595
+
+Evaluation
+====== Third attack data set
+Test Accuracy: 85.71428656578064
+Test Loss: 60.384029150009155
+
+Evaluation
+====== Forth attack data set
+Test Accuracy: 86.24338507652283
+Test Loss: 82.38523006439209
+
+==================================================
