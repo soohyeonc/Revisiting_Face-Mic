@@ -2,29 +2,29 @@
 Evaluation
 ====== First data set
 Train Accuracy: 100.0
-Train Loss: 0.00024521839350200025
-Test Accuracy: 83.59788656234741
-Test Loss: 96.05478048324585
+Train Loss: 0.05329563864506781
+Test Accuracy: 80.15872836112976
+Test Loss: 65.11062383651733
 
 Evaluation
 ====== Second data set
 Train Accuracy: 100.0
-Train Loss: 9.389761999045731e-05
-Test Accuracy: 83.8624358177185
-Test Loss: 71.23262286186218
+Train Loss: 0.019574593170545995
+Test Accuracy: 84.65608358383179
+Test Loss: 69.67743039131165
 
 Evaluation
 ====== Third data set
 Train Accuracy: 100.0
-Train Loss: 7.509862598453765e-05
-Test Accuracy: 82.80423283576965
-Test Loss: 72.91669249534607
+Train Loss: 0.15322170220315456
+Test Accuracy: 82.53968358039856
+Test Loss: 52.029502391815186
 
 Evaluation
 ====== Forth data set
 Train Accuracy: 100.0
-Train Loss: 7.886739012974431e-05
-Test Accuracy: 74.86772537231445
-Test Loss: 153.09975147247314
+Train Loss: 0.013154812040738761
+Test Accuracy: 78.57142686843872
+Test Loss: 87.34369277954102
 
 ==================================================
