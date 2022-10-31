@@ -647,7 +647,7 @@ def addLine(attack_number, f):
 
 #####################################################################################################
 # iteraitions #######################################################################################
-attack_number = 4
+attack_number = 5
 
 datasetList = ["First", "Second", "Third", "Forth"]
 #datasetList = ["First"]
@@ -658,15 +658,15 @@ for i in datasetList:
     count = count + 1
 
     print(i +" data set")
-    path ="8users/8users_target"+str(attack_number)+"_temp/Segmentedspectrograms_" + str(count)
-    csv_path = "8users/8users_temp/data_"+ str(count) +"/merged_" #target
+    path ="targeted_attack/targeted_attack"+str(attack_number)+"/Segmentedspectrograms_" + str(count)
+    csv_path = "targeted_attack/targeted_attack/data_"+ str(count) +"/merged_" #target
 
     loss1, acc1, loss2, acc2 = Multi_CNN(path, csv_path)
     printing_result(i,loss1, acc1, loss2, acc2)
     target_result(i,loss1, acc1, loss2, acc2, attack_number)
 
-    path ="8users/8users_attack"+str(attack_number)+"_temp/Segmentedspectrograms_" + str(count)
-    csv_path = "8users/8users_attack"+str(attack_number)+"_temp/data_"+ str(count) +"/merged_" #attack
+    path ="targeted_attack/targeted_attack"+str(attack_number)+"/Segmentedspectrograms_" + str(count)
+    csv_path = "targeted_attack/targeted_attack"+str(attack_number)+"/data_"+ str(count) +"/merged_" #attack
 
     loss2, acc2 = Multi_CNN_attack(path, csv_path)
     printing_attack_result(i, loss2, acc2)
