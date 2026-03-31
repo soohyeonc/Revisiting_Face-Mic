@@ -101,13 +101,17 @@ python targeted_attack_AFAF.py
 
 Results are saved as text files in `test/Result/targeted_attack/` and `test/Result/untargeted_attack/`.
 
-## Data Collection
+## Data
+
+> **Note:** The dataset is **not included** in this repository as it was collected under a human subject experiment protocol (IRB). Please contact the authors for data access requests.
 
 Motion sensor data (accelerometer, velocity, position) was collected from an **Oculus Quest 2** VR headset. Participants were recorded speaking phonetic alphabet words ("Alpha", "Bravo", "Charlie"), capturing speech-associated facial dynamics through the HMD's built-in sensors.
 
 Participant IDs follow the format `{Ethnicity}_{Gender}_{Number}`:
 - `AS` = Asian, `ME` = Middle Eastern
 - `M` = Male, `F` = Female
+
+To use this code, place your data under `data/` following the structure described in the repository structure section above.
 
 ## Citation
 
